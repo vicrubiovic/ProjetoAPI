@@ -2,7 +2,7 @@ import requests
 import unittest
 
 '''
-Cada aluno será representado por um dicionário JSON como o seguinte: 
+
 {"id":1,"nome":"marcos"}
 
 Testes 000 e 001:
